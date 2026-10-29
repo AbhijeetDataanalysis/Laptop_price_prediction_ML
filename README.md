@@ -61,7 +61,7 @@ The project covers the full data-science pipeline:
 
 ## 🖼️ Demo
 
-> 📸 Add your screenshots to an `assets/` folder and update the paths below.
+> click the link and see Demo 
 
 | Price Predictor | Dashboard | Algorithm Lab |
 |:---:|:---:|:---:|
