@@ -57,15 +57,6 @@ The project covers the full data-science pipeline:
 | 🗂️ | **Dataset Explorer tab** | Browse the data and download it as CSV |
 | 🔮 | **Log-price modelling** | Models are trained on `log(Price)` to handle the right-skewed price distribution |
 
----
-
-## 🖼️ Demo
-
-> click the link and see Demo 
-
-| Price Predictor | Dashboard | Algorithm Lab |
-|:---:|:---:|:---:|
-| ![Predictor](assets/predictor.png) | ![Dashboard](assets/dashboard.png) | ![Algorithms](assets/algorithms.png) |
 
 ---
 
